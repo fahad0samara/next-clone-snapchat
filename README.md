@@ -4,6 +4,10 @@
 
 This project is a clone of Snapchat built using Next.js framework. It includes features such as user authentication, sending and receiving messages (both text and images), user profiles, and more.
 
+
+![screencapture-localhost-3000-2024-04-22-10_55_13](https://github.com/fahad0samara/next-clone-snapchat/assets/90055525/f9c5f470-30c2-4b8e-90ea-dc0d0f41ce3b)
+
+
 ## Technologies Used
 
 - Next.js: The React framework for building server-side rendered and statically generated applications.
